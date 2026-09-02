@@ -7,3 +7,4 @@ Live at: `https://<username>.github.io/demos/<folder-name>/`
 ## Current demos
 
 - [thirteen-tattoo](thirteen-tattoo/) — Th1rte3n Tattoo Studio, Lindsay ON
+- [dynamic-designs](dynamic-designs/) — Dynamic Designs, Lindsay ON

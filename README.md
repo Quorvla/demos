@@ -8,3 +8,4 @@ Live at: `https://<username>.github.io/demos/<folder-name>/`
 
 - [thirteen-tattoo](thirteen-tattoo/) — Th1rte3n Tattoo Studio, Lindsay ON
 - [dynamic-designs](dynamic-designs/) — Dynamic Designs, Lindsay ON
+- [esthetics-by-reet](esthetics-by-reet/) — Esthetics by Reet, Lindsay ON

@@ -10,3 +10,4 @@ Live at: `https://<username>.github.io/demos/<folder-name>/`
 - [dynamic-designs](dynamic-designs/) — Dynamic Designs, Lindsay ON
 - [esthetics-by-reet](esthetics-by-reet/) — Esthetics by Reet, Lindsay ON
 - [hair-tones-salon](hair-tones-salon/) — Hair Tones Salon, Lindsay ON
+- [iron-will-tattoo](iron-will-tattoo/) — Iron Will Tattoo Co., Lindsay ON
